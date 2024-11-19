@@ -25,9 +25,6 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWindCss" style="border-radius: 5px;" />
 </div>
 <div style="display: inline-block; align:center; margin: 0 5px;">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="border-radius: 5px;" />
-</div>
-<div style="display: inline-block; align:center; margin: 0 5px;">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 5px;" />
 </div><br/>
 </div>
